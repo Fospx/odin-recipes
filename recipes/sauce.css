@@ -1,0 +1,21 @@
+body {
+    background-color: rgb(235, 228, 201);
+}
+
+img {
+    border: 4px solid rgb(128, 95, 40);
+    border-radius: 10%;
+    width: 500px;
+}
+
+li {
+    line-height: 25px;
+}
+
+.heading {
+    border: 4px solid rgb(128, 95, 40);
+    border-radius: 10px;
+    background-color: rgb(128, 95, 40);
+    width: fit-content;
+    color: white;
+}
