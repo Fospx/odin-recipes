@@ -13,20 +13,13 @@ li {
     line-height: 30px;
 }
 
-#heading {
-    border: 3px solid red;
+.heading {
+    border: 4px solid royalblue;
     border-radius: 10px;
     background-color: royalblue;
     color: white;
     width: 115px;
     text-align: center;
-
-}
-
-.heading {
-    border: 3px solid red;
-    border-radius: 10px;
-    background-color: royalblue;
-    color: white;
     width: fit-content;
 }
+
