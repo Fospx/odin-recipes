@@ -1,4 +1,7 @@
 body {
+    background-color:rgb(245, 223, 223);
     border-style: solid;
     border-radius: 30px;
+    width: 189px;
 }
+
